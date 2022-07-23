@@ -34,9 +34,8 @@ For `.bashrc` append the following to the file,
 # neofetch
 if [[ -f ~/.neo_random_fetch.sh ]]; then
 	source ~/.neo_random_fetch.sh
+	neo_random_fetch
 fi
-
-neo_random_fetch
 ```
 
 ### Let's get started!
